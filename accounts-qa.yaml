@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to DarkyBank accounts related local APIs "
+  message: "Welcome to DarkyBank accounts related local APIs  on GITHUB"
   contactDetails:
     name: "{cipher}7bfa4dd5a22c68faa20e7125ba214f444734acbf4adf1e84883ea7440bd9c3381cde8f2de0472bcf9799e200466374e4"
     email: "Fedan@darknsoft.pp.ua"
