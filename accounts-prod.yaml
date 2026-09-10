@@ -1,5 +1,5 @@
 build:
-  version: "2.0"
+  version: "2.5"
 
 accounts:
   message: "Welcome to DarkyBank accounts related local APIs "
