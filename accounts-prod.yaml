@@ -2,7 +2,7 @@ build:
   version: "2.5"
 
 accounts:
-  message: "Welcome to DarkyBank accounts related local APIs "
+  message: "Welcome to DarkyBank accounts related prod APIs "
   contactDetails:
     name: "Andrew Dark - Owner"
     email: "AndrewDark@darknsoft.pp.ua"
